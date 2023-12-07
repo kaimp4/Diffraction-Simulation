@@ -2,6 +2,8 @@
 
 ## Code to Run
 
+THIS REQUIRES THE 'COLOUR' PYTHON PACKAGE TO BE INSTALLED TO RUN
+
 To use my angular spectrum diffraction simulator, run
 
     python -i angular_spectrum_diffraction.python
