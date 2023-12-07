@@ -1,8 +1,14 @@
 # Final Project!
 
-## Code to Run
+## Packages
 
-THIS REQUIRES THE 'COLOUR' PYTHON PACKAGE TO BE INSTALLED TO RUN
+This simulator primarily uses Pillow, NumPy, SciPy, and Matplotlib. This also uses Colour which can be installed via:
+
+```python
+pip install --user colour-science
+```
+
+## Code to Run
 
 To use my angular spectrum diffraction simulator, run
 
