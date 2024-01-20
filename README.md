@@ -1,3 +1,7 @@
+# Background
+
+I created this project originally for a Python class, but expanded upon in into a full diffraction simulation! I plan on updating this overtime to optimize and add more interactivitiy options.
+
 # How to Use
 
 ## Packages
