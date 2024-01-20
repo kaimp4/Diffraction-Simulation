@@ -17,7 +17,7 @@ pip install --user colour-science
 To use my angular spectrum diffraction simulator, run
 
 ```python
-python -i angular_spectrum_diffraction.python
+python -i angular_spectrum_diffraction.py
 ```
 
 To use the interactive, single color simulator, run
